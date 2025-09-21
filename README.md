@@ -61,4 +61,5 @@
 - **Performance and battery life improved** due to thermal control of Exynos 990.  
 - Tested and tuned for One UI 7 based ROMs.  
 
-> Use wisely, Comandante ⚡🔥
+> Use wisely, KØRD⚡🔥
+
