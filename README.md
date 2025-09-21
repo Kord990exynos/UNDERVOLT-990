@@ -83,12 +83,18 @@ Engineered for **maximum efficiency, performance, and battery life**.
 This module has also been tested on several Galaxy S21 series (Exynos 2100) devices and proved to work with excellent stability and performance.
 It also showed compatibility with the Exynos 9 Octa 9820 (Galaxy S10 series).
 
+Additionally, it works on the Galaxy Note 20 series, following the same hierarchy as the S20 series:
+
+Galaxy Note 20 → same compatibility as S20 / S20 FE (Lite Edition)
+
+Galaxy Note 20+ / Note 20 Ultra → same compatibility as S20+ / S20 Ultra (V2 Aggressive Edition)
+
 ⚠️ However, for safety and consistency, KØRD officially recommends use only on Exynos 990 devices (Galaxy S20 series).
 
 If you decide to experiment outside of the Exynos 990 line:
 
-Use 🔥UNDERVØLT-990 V2🔥 (Aggressive Edition) on the entire S21 series (Exynos 2100).
+Use 🔥UNDERVØLT-990 V2🔥 (Aggressive Edition) on the entire S21 series (Exynos 2100) and on Note 20+ / Ultra.
 
-Use 🔥UNDERVØLT-990-LITE🔥 on the entire S10 series (Exynos 9820).
+Use 🔥UNDERVØLT-990-LITE🔥 on the entire S10 series (Exynos 9820) and on Note 20.
 
 Beyond this, no guarantees will be given. Use at your own risk.
