@@ -1,6 +1,6 @@
 # 🔥 UNDERVØLT-990 V2 🔥
 
-**Developed by KØRD** – Aggressive undervolt/underclock module for **Galaxy S20 series (Exynos 990)**.
+**Developed by KØRD** – Aggressive undervolt module for **Galaxy S20 series (Exynos 990)**.
 
 ---
 
