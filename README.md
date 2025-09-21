@@ -19,11 +19,11 @@ Engineered for **maximum efficiency, performance, and battery life**.
 
 ### Before (3DMark & Antutu)
 ![Before 3DMark](https://github.com/Kord990exynos/UNDERVOLT-990/blob/main/photo_5945231187712789054_y.jpg)
-![Before Antutu](https://github.com/Kord990exynos/UNDERVOLT-990/blob/main/photo_5945231187712789051_y.jpg)
+![Before Antutu](https://github.com/Kord990exynos/UNDERVOLT-990/blob/main/photo_5947192944090008534_y.jpg)
 
 ### After (3DMark & Antutu)
 ![After 3DMark](https://github.com/Kord990exynos/UNDERVOLT-990/blob/main/photo_5945231187712789055_y.jpg)
-![After Antutu](https://github.com/Kord990exynos/UNDERVOLT-990/blob/main/photo_5945231187712789052_y.jpg)
+![After Antutu](https://github.com/Kord990exynos/UNDERVOLT-990/blob/main/photo_5947192944090008541_y.jpg)
 
 ---
 
