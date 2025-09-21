@@ -77,3 +77,18 @@ Engineered for **maximum efficiency, performance, and battery life**.
 - Fully tested and tuned for **One UI 7 based ROMs**  
 
 > Use wisely, KØRD ⚡🔥
+
+💡 Extra Notes
+
+This module has also been tested on several Galaxy S21 series (Exynos 2100) devices and proved to work with excellent stability and performance.
+It also showed compatibility with the Exynos 9 Octa 9820 (Galaxy S10 series).
+
+⚠️ However, for safety and consistency, KØRD officially recommends use only on Exynos 990 devices (Galaxy S20 series).
+
+If you decide to experiment outside of the Exynos 990 line:
+
+Use 🔥UNDERVØLT-990 V2🔥 (Aggressive Edition) on the entire S21 series (Exynos 2100).
+
+Use 🔥UNDERVØLT-990-LITE🔥 on the entire S10 series (Exynos 9820).
+
+Beyond this, no guarantees will be given. Use at your own risk.
