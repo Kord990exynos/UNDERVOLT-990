@@ -40,7 +40,7 @@
 > **Do not modify this module** – any attempt to change it may result in **boot loops or bricks**.  
 > The module is **perfectly tuned as it is**.
 
-> Built and tested for **ROMs based on One UI 7**, such as **Extreme ROM Nexus Ultra**.  
+> Built and tested for **ROMs based on One UI 7**, such as **Extreme ROM Nexus**.  
 > KØRD does **not guarantee functionality** on stock Android or ROMs like **Pixel Experience, LineageOS, or AOSP-based ROMs**.
 
 ---
